@@ -18,3 +18,4 @@ For this sprint I used javascript as my main language to learn this week. I lean
 [w3schools](https://www.w3schools.com/js/default.asp)
 
 ## Youtube video 
+[youtube.com](https://youtu.be/Fzd5-FBXcro)
