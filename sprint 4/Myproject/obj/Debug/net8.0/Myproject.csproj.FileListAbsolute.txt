@@ -1,0 +1,15 @@
+/Users/scottkishpaugh/Documents/Applied-programming/sprint 4/Myproject/obj/Debug/net8.0/Myproject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/scottkishpaugh/Documents/Applied-programming/sprint 4/Myproject/obj/Debug/net8.0/Myproject.AssemblyInfoInputs.cache
+/Users/scottkishpaugh/Documents/Applied-programming/sprint 4/Myproject/obj/Debug/net8.0/Myproject.AssemblyInfo.cs
+/Users/scottkishpaugh/Documents/Applied-programming/sprint 4/Myproject/obj/Debug/net8.0/Myproject.csproj.CoreCompileInputs.cache
+/Users/scottkishpaugh/Documents/Applied-programming/sprint 4/Myproject/obj/Debug/net8.0/Myproject.sourcelink.json
+/Users/scottkishpaugh/Documents/Applied-programming/sprint 4/Myproject/bin/Debug/net8.0/Myproject
+/Users/scottkishpaugh/Documents/Applied-programming/sprint 4/Myproject/bin/Debug/net8.0/Myproject.deps.json
+/Users/scottkishpaugh/Documents/Applied-programming/sprint 4/Myproject/bin/Debug/net8.0/Myproject.runtimeconfig.json
+/Users/scottkishpaugh/Documents/Applied-programming/sprint 4/Myproject/bin/Debug/net8.0/Myproject.dll
+/Users/scottkishpaugh/Documents/Applied-programming/sprint 4/Myproject/bin/Debug/net8.0/Myproject.pdb
+/Users/scottkishpaugh/Documents/Applied-programming/sprint 4/Myproject/obj/Debug/net8.0/Myproject.dll
+/Users/scottkishpaugh/Documents/Applied-programming/sprint 4/Myproject/obj/Debug/net8.0/refint/Myproject.dll
+/Users/scottkishpaugh/Documents/Applied-programming/sprint 4/Myproject/obj/Debug/net8.0/Myproject.pdb
+/Users/scottkishpaugh/Documents/Applied-programming/sprint 4/Myproject/obj/Debug/net8.0/Myproject.genruntimeconfig.cache
+/Users/scottkishpaugh/Documents/Applied-programming/sprint 4/Myproject/obj/Debug/net8.0/ref/Myproject.dll

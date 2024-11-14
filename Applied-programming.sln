@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sprint 4", "sprint 4", "{43E1C83C-5100-46DB-81ED-5C1ED4DA8BE5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Myproject", "sprint 4\Myproject\Myproject.csproj", "{71F154D5-637D-4EBF-B358-ADF21685DA2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71F154D5-637D-4EBF-B358-ADF21685DA2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71F154D5-637D-4EBF-B358-ADF21685DA2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71F154D5-637D-4EBF-B358-ADF21685DA2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71F154D5-637D-4EBF-B358-ADF21685DA2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{71F154D5-637D-4EBF-B358-ADF21685DA2A} = {43E1C83C-5100-46DB-81ED-5C1ED4DA8BE5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFADAB70-7659-4C60-BF56-F000C6CACA77}
+	EndGlobalSection
+EndGlobal
